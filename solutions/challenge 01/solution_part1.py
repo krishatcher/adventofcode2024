@@ -4,6 +4,8 @@ Solution to the Day 1, Challenge 1 challenge for the 2024 Advent of Code event
 
 Details: https://adventofcode.com/2024/day/1
 
+Note that the input provided by the challenge site was converted to a TSV file with headers for the two columns of 'group1' and 'group2'
+
 """
 
 import pandas as pd
